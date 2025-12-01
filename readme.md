@@ -20,7 +20,7 @@
 Если вы используете Git, клонируйте репозиторий (предполагая, что вы уже настроили `.gitignore`):
 
 ```bash
-git clone https://github.com/ivanor2/max_to_tg.git
+git clone https://github.com/ivanor2/MaxToTelegram.git
 cd <имя_папки_репозитория>
 ```
 
